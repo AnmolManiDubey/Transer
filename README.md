@@ -11,3 +11,4 @@ Transer extracts audio from video files, transcribes and translates the text int
 * openai-whisper: An automatic speech recognition (ASR) model for converting speech to text.
 * googletrans==4.0.0-rc1: A Python wrapper for Google Translate API, used for translating text.
 * gtts: Google Text-to-Speech, used for converting translated text back into audio.
+#### Transer Does not have a UI, this repository only includes its base functionalities defined above.
